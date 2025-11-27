@@ -1,0 +1,10 @@
+{
+  "naveen": {
+    "salt": "76578c042297152c3c33293e6d2d5a3d",
+    "pwd_hash": "5bda3d554cfe09ead90864ace68e1520f30fdea740a5c8daa52561ce4b28798a"
+  },
+  "ravi": {
+    "salt": "542fc1ba5f8d2d5c4eeab8a144e83c5f",
+    "pwd_hash": "65b4b0efd7d455535c32581d34c691203e77bec925ac76e86613582fac6c8faf"
+  }
+}
