@@ -1,0 +1,9 @@
+matplotlib
+numpy
+pandas
+scikit-learn
+kaggle
+streamlit
+requests
+tensorflow
+bcrypt
